@@ -1,0 +1,37 @@
+[
+    {
+        "nombre": "JUAN",
+        "especialidad": "CARDIOLOGIA",
+        "turnos": ["LUNES"]
+    },
+    {
+        "nombre": "GUSTAVO",
+        "especialidad": "NEUROLOGIA",
+        "turnos": ["LUNES"]
+    },
+    {
+        "nombre": "ANA",
+        "especialidad": "CLINICA MÉDICA",
+        "turnos": ["MARTES"]
+    },
+    {
+        "nombre": "EMANUEL",
+        "especialidad": "PEDIATRIA",
+        "turnos": ["VIERNES"]
+    },
+    {
+        "nombre": "SANDRA",
+        "especialidad": "CARDIOLOGIA",
+        "turnos": ["SÁBADO"]
+    },
+    {
+        "nombre": "JOAQUIN",
+        "especialidad": "TRAUMATOLOGIA",
+        "turnos": ["DOMINGO"]
+    },
+    {
+        "nombre": "MAXIMILIANO",
+        "especialidad": "ENDOCRINOLOGIA",
+        "turnos": ["MIÉRCOLES"]
+    }
+]
